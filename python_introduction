@@ -37,3 +37,14 @@ pow(a, b) : lets you calculate a to the power of b. It is equivalent to writing 
 
 abs() :  returns the absolute value of a number.
 
+functions can have parameters and return values.
+
+a return value is the result of running the function. The return value is returned to the code that called the function, to be used as needed.
+
+the parameters are the data necessary for a function to be run and generate a result.
+
+parameters are variables defined by a name. Parameters are specified in the function declaration.
+
+when using a function, you pass it different values as parameters. These values are called arguments.
+
+you can use the help function to print the documentation of a given function.
