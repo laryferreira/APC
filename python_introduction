@@ -1,0 +1,39 @@
+Basics about variables:
+
+A variable is made up of two parts: its name and its value.
+
+Assigning a value to a variable is called an assignment.
+
+The value of a variable can be changed.
+
+The type of a variable depends on its value.
+
+The names of your variables should be clear, explicit, and should follow a typographic convention.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Three primitive types of variables, essential to all programs/analyses:
+
+Integers (int)
+
+Decimals (float)
+
+Character strings (string)
+
+You have also seen how to use these different types:
+
+You can perform numeric operations on numeric variables of different types.
+
+You can cast variables to force the transformation of the type of a variable into another specific type, according to your needs.
+
+Strings can be assembled together: this is called concatenation.
+----------------------------------------------------------------------------------------------------------------------------------------
+There are many pre-existing functions in Python! In addition to those already seen, there are, for example:
+
+len() :  a function that returns the length of an item. Do you remember strings? Using this function on a string tells you how many characters the string contains.
+
+type() : lets you print the type of a variable.
+
+pow(a, b) : lets you calculate a to the power of b. It is equivalent to writing a**b.
+
+abs() :  returns the absolute value of a number.
+
