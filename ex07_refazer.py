@@ -10,23 +10,12 @@ def cents(y, value):
 
 def exch(x):
     v100, exch = money(x,100)
-    
-
     v50, exch = money(x,50)
-  
-
     v20, exch = money(x,20)
-   
-
     v10, exch = money(x,10)
-    
-
     v5, exch = money(x,5)
-    
-
     v2, exch = money(x,2)
-    
-    
+
 def exch(y):
     v1, exch = money(x,1)
     print(f'{v100} moedas de R$ 1.00')
