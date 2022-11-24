@@ -18,22 +18,19 @@ def exch(x):
 
 def exch(y):
     v1, exch = money(x,1)
-    print(f'{v100} moedas de R$ 1.00')
+    
 
     v50c, exch = money(x,50)
-    print(f'{v50} moedas de R$ 0.50')
-
+   
     v20c, exch = money(x,20)
-    print(f'{v20} moedas de R$ 0.20')
+    
 
     v10c, exch = money(x,10)
-    print(f'{v10} moedas de R$ 0.10')
-
+    
     v5c, exch = money(x,5)
-    print(f'{v5} moedas de R$ 0.05')
-
+   
     v1c, exch = money(x,1)
-    print(f'{v2} moedas de R$ 0.01')
+   
 
 entrada = float(input())
 print(f'{v100} notas de R$ 100')
@@ -42,3 +39,9 @@ print(f'{v20} notas de R$ 20')
 print(f'{v10} notas de R$ 10')
 print(f'{v5} notas de R$ 5')
 print(f'{v2} notas de R$ 2')
+print(f'{v100} moedas de R$ 1.00')
+print(f'{v50} moedas de R$ 0.50')
+print(f'{v20} moedas de R$ 0.20')
+print(f'{v10} moedas de R$ 0.10')
+print(f'{v5} moedas de R$ 0.05') 
+print(f'{v1} moedas de R$ 0.01')
