@@ -17,18 +17,11 @@ def exch(x):
     v2, exch = money(x,2)
 
 def exch(y):
-    v1, exch = money(x,1)
-    
-
-    v50c, exch = money(x,50)
-   
+    v1, exch = money(x,1) 
+    v50c, exch = money(x,50) 
     v20c, exch = money(x,20)
-    
-
     v10c, exch = money(x,10)
-    
-    v5c, exch = money(x,5)
-   
+    v5c, exch = money(x,5)  
     v1c, exch = money(x,1)
    
 
