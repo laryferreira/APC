@@ -1,3 +1,4 @@
+#esse foi um desafio proposto pelo professor que eu não consegui fazer no dia, mas estou trabalhando nele!
 def money(x, value):
     notes = x//value
     exch = x%value
