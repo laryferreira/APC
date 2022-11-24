@@ -26,12 +26,14 @@ def exch(y):
    
 
 entrada = float(input())
+print("NOTAS:")
 print(f'{v100} notas de R$ 100')
 print(f'{v50} notas de R$ 50')
 print(f'{v20} notas de R$ 20')
 print(f'{v10} notas de R$ 10')
 print(f'{v5} notas de R$ 5')
 print(f'{v2} notas de R$ 2')
+print("MOEDAS:")
 print(f'{v100} moedas de R$ 1.00')
 print(f'{v50} moedas de R$ 0.50')
 print(f'{v20} moedas de R$ 0.20')
