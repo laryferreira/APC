@@ -19,7 +19,7 @@
 
 ☑︎ Dicionários e Tuplas
 
-🇺🇸 Repository used to store the problems solved in the APC (Programming Algorithms and Computers) course at the University of Brasilia (2/2022). Here you will find exercises corrected by coderunner (Learn 3) and the platform URI beecrowd, which cover basic Python language topics:
+🇺🇸 Repository used to store the problems solved in the APC (Programming Algorithms and Computers) course at the University of Brasilia (2/2022). Here you will find exercises corrected by coderunner and the platform URI beecrowd, which cover basic Python language topics:
 
 ☑︎ Variables, Expressions, and Instructions
 
@@ -31,7 +31,7 @@
 
 ☑︎ Iteration
 
-☑︎Strings
+☑︎ Strings
 
 ☑︎ Lists
 
