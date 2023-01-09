@@ -1,1 +1,15 @@
+Código de Cores em Resistores
+A codificação de resistores com cores é usada para classificar estes componentes. A ideia é simples e definida por um padrão internacional: há um mapeamento de cores para valores específicos, portanto o valor da resistência pode ser traduzido em uma sequência de cores sendo que as 2 ou 3 primeiras cores determinam o valor da resistência, a seguinte determina a ordem de grandeza e a última determina a tolerância. Por exemplo, um resistor de 2260Ω e 1% de tolerância tem 5 faixas de cor: vermelha (2), vermelha (2), azul (6), marrom (x10) e marrom (±1%).
 
+Defina a função IEC60062 que recebe um string determinando o valor da resistência e retorna a sequência de cores a ser impressa sobre o resistor, como um list. O valor é dado no formato "FM T", onde 𝐹 é um número real com até 2 casas de precisão, 𝑀 é o múltiplo de grandeza da unidade de medida ohm (Ω) e 𝑇 é o valor da tolerância (real). Note que há uma lacuna (espaço) entre 𝑀 e 𝑇.
+
+Entrada
+Não há entrada de dados, a função é chamada automaticamente pelo sistema.
+
+Saída
+Não há saída dados, o sistema apresenta o resultado da chamada da função automaticamente.
+
+Observações
+
+Os multiplicadores possíveis são: 𝑚, −, 𝐾, 𝑀 e 𝐺, cujos respectivos valores são: 10−3,1,103,106 e 109.
+É garantido que o valor mínimo de uma resistência é de 10𝑚Ω
