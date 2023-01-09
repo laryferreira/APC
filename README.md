@@ -18,3 +18,21 @@
 ☑︎ Listas
 
 ☑︎ Dicionários e Tuplas
+
+🇺🇸 Repository used to store the problems solved in the APC (Programming Algorithms and Computers) course at the University of Brasilia (2/2022). Here you will find exercises corrected by coderunner (Learn 3) and the platform URI beecrowd, which cover basic Python language topics:
+
+☑︎ Variables, Expressions, and Instructions
+
+☑︎ Functions
+
+☑︎ Conditionals and Recursion
+
+☑︎ Functions with results
+
+☑︎ Iteration
+
+☑︎Strings
+
+☑︎ Lists
+
+☑︎ Dictionaries and Tuples
