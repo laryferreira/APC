@@ -1,7 +1,8 @@
-contador = 0
-if contador == 'Fim':
-    print (0)
-elif contador != 'Fim':
-    contador = contador =+ 1
-    print(contador)
-    
+cont = 0
+while True:
+    id = str(input())
+    if id == 'Fim':
+        print(cont)
+        break
+    else:
+        cont += 1
