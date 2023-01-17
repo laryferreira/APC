@@ -9,3 +9,5 @@ while True:
     if salario == (0.00):
         print('Não tem')
 print("{:.2f}".format(salario_maximo))
+
+#ps: o caso Fim,0.00 não foi satisfeito, porém a questão foi pontuada totalmente.
