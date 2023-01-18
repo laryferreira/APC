@@ -2,7 +2,7 @@
  
  Ps: Alguns exercícios não estão completos e foram colocados aqui para uma nova tentativa posterior.
  
- <em>Se esse repositório te ajudou, calouro(a), deixe uma ⭐️!</em>
+ <em>Se esse repositório te ajudou, calouro(a), deixe uma ⭐!</em>
  
  ##
  🇧🇷
