@@ -1,3 +1,6 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
+
+
  <h1>APC - 2º semestre de 2022 | UnB</h1>
  
  Ps: Alguns exercícios não estão completos e foram colocados aqui para uma nova tentativa posterior.
