@@ -4,8 +4,8 @@
  
  <em>Se esse repositório te ajudou, calouro(a), deixe uma ⭐!</em>
  
- ##
- 🇧🇷
+ ## Finalidade:
+
  Repositório utilizado para armazenar os problemas resolvidos na disciplina de APC (Algoritmos de programação e computadores) da Universidade de Brasília (2º/2022).
   Aqui você encontrará exercícios corrigidos pelo coderunner (Aprender 3) e pelo URI da plataforma beecrowd, que abrangem os assuntos iniciais da linguagem Python:
 
@@ -26,7 +26,8 @@
 
 ☑︎ Dicionários e Tuplas
 
-🇺🇸 Repository used to store the problems solved in the APC (Programming Algorithms and Computers) course at the University of Brasilia (2/2022). Here you will find exercises corrected by coderunner and the platform URI beecrowd, which cover basic Python language topics:
+## Usage:
+Repository used to store the problems solved in the APC (Programming Algorithms and Computers) course at the University of Brasilia (2/2022). Here you will find exercises corrected by coderunner and the platform URI beecrowd, which cover basic Python language topics:
 
 ☑︎ Variables, Expressions, and Instructions
 
