@@ -11,3 +11,4 @@ for i in range(0,n-1):
             lista[j] = aux
 
 print(trocas)
+#ordenação decrescente -> muda o sinal para >
