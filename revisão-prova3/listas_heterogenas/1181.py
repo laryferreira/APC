@@ -10,3 +10,28 @@ Saída
 Imprima o resultado solicitado (a soma ou média), com 1 casa após o ponto decimal'''''
 
 #explicação
+
+L = int(input())
+T = input() #Soma ou média
+
+N = 12 #nesse caso podemos considerar N como um número definido pois a questão nos permite
+matriz = [] #matriz vazia
+
+for i in range(0,N):
+  lista = [] #lista vazia que receberá os valores de x das linhas
+  for j in range(0,N): #passa por cada coluna
+    x = float(input()) #entrada em float
+    lista.append(x) #adiciona valor na lista vazia
+  matriz.append(lista) #adiciona lista na matriz vazia
+  
+soma = 0
+for j in range(0,N): 
+  soma+=matriz[L][j] #itera sobre todas as colunas 'j' da linha 'L', resultando na soma de todos os elementos da linha
+
+if T == "S":
+  print(f'{soma:.1f}') #1 casa após a vírgula
+  
+else:
+  media = soma/n
+  print(f'{media:.1f}')
+    
