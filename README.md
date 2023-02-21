@@ -9,7 +9,9 @@
  ## Finalidade:
 
  Repositório utilizado para armazenar os problemas resolvidos na disciplina de APC (Algoritmos de programação e computadores) da Universidade de Brasília (2º/2022).
-  Aqui você encontrará exercícios corrigidos pelo coderunner (Aprender 3) e pelo URI da plataforma beecrowd, que abrangem os assuntos iniciais da linguagem Python:
+  Aqui você encontrará exercícios corrigidos pelo coderunner (Aprender 3) e pelo URI da plataforma beecrowd, que abrangem os assuntos iniciais da linguagem Python.
+
+#
 
 ### Resoluções Coderunner:
 
@@ -30,3 +32,15 @@
 - Dicionários e Tuplas *
 
 <i> * -> Exercícios Coderunner não finalizados. Exercícios principais nas revisões para as provas. </i>
+
+#
+
+### Resoluções Beecrowd:
+[Beecrowd](https://github.com/laryferreira/APC-UnB/tree/main/beecrowd)
+
+#
+
+### Revisões para provas (resolução de simulados)
+
+[Prova 2](https://github.com/laryferreira/APC-UnB/tree/main/revis%C3%A3oprova2)
+[Prova 3](https://github.com/laryferreira/APC-UnB/tree/main/revis%C3%A3o-prova3)
