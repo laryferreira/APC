@@ -11,12 +11,13 @@
  Repositório utilizado para armazenar os problemas resolvidos na disciplina de APC (Algoritmos de programação e computadores) da Universidade de Brasília (2º/2022).
   Aqui você encontrará exercícios corrigidos pelo coderunner (Aprender 3) e pelo URI da plataforma beecrowd, que abrangem os assuntos iniciais da linguagem Python:
 
+### Resoluções Coderunner:
 
-- [Variáveis, expressões e instruções](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/variaveis%26expressoes)
+- [Variáveis, expressões e instruções](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/variaveis%26expressoes) 
 
-- [Funções](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/funcoes)
+- [Funções](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/funcoes) 
 
-- [Condicionais e Recursividade](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/condicionais%26recursividade)
+- [Condicionais e Recursividade](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/condicionais%26recursividade) 
 
 - [Funções com resultados](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/funcoesresultados)
 
