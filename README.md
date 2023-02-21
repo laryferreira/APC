@@ -12,37 +12,18 @@
   Aqui você encontrará exercícios corrigidos pelo coderunner (Aprender 3) e pelo URI da plataforma beecrowd, que abrangem os assuntos iniciais da linguagem Python:
 
 
-☑︎ Variáveis, expressões e instruções
+- [Variáveis, expressões e instruções](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/variaveis%26expressoes)
 
-☑︎ Funções
+- [Funções](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/funcoes)
 
-☑︎ Condicionais e Recursividade
+- [Condicionais e Recursividade](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/condicionais%26recursividade)
 
-☑︎ Funções com resultados
+- [Funções com resultados](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/funcoesresultados)
 
-☑︎ Iteração
+- [Iteração](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/iteracao)
 
-☑︎ Strings
+- [Strings]
 
-☑︎ Listas
+- [Listas]
 
-☑︎ Dicionários e Tuplas
-
-## Usage:
-Repository used to store the problems solved in the APC (Programming Algorithms and Computers) course at the University of Brasilia (2/2022). Here you will find exercises corrected by coderunner and the platform URI beecrowd, which cover basic Python language topics:
-
-☑︎ Variables, Expressions, and Instructions
-
-☑︎ Functions
-
-☑︎ Conditionals and Recursion
-
-☑︎ Functions with results
-
-☑︎ Iteration
-
-☑︎ Strings
-
-☑︎ Lists
-
-☑︎ Dictionaries and Tuples
+- [Dicionários e Tuplas]
