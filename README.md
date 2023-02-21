@@ -22,8 +22,8 @@
 
 - [Iteração](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/iteracao)
 
-- [Strings]
+- [Strings](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/string)
 
-- [Listas]
+- Listas
 
-- [Dicionários e Tuplas]
+- Dicionários e Tuplas
