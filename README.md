@@ -25,6 +25,8 @@
 
 - [Strings](https://github.com/laryferreira/APC-UnB/tree/main/coderunner/string)
 
-- Listas
+- Listas *
 
-- Dicionários e Tuplas
+- Dicionários e Tuplas *
+
+<i> * -> Exercícios Coderunner não finalizados. Exercícios principais nas revisões para as provas. </i>
